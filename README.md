@@ -1,3 +1,3 @@
-# Twilio whatsapp bot 
+# Twilio whatsapp useless fact bot 
 
-![](Capture.jpg)
+![](Capture.JPG)
